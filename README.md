@@ -1,2 +1,2 @@
 # research
-Personal Research: Javascript, ReactJS, Flutter
+Personal Research: Javascript, ReactJS, Flutter, CSS
